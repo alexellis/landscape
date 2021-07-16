@@ -1839,9 +1839,9 @@ landscape:
             logo: haproxy.svg
             crunchbase: https://www.crunchbase.com/organization/haproxy-technologies
           - item:
-            name: Inlets
-            homepage_url: https://docs.inlets.dev
-            repo_url: https://github.com/inlets/inlets-archived
+            name: Inlets PRO
+            homepage_url: https://inlets.dev
+            repo_url: https://github.com/inlets/inlets-pro
             logo: inlets.svg
             twitter: https://twitter.com/inletsdev
             crunchbase: https://www.crunchbase.com/organization/openfaas
